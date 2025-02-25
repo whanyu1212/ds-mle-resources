@@ -4,24 +4,17 @@
 a curated list of resources for aspiring data scientists and machine learning engineers
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-  - [Python Version Management](#python-version-management)
-  - [Dependency Management](#dependency-management)
-  - [Project Templates](#project-templates)
-- [Data Structures and Algorithms Resources](#data-structure-and-algorithms-resources)
-  - [Books and Courses](#books-and-courses)
-  - [Practice Platforms](#practice-platforms)
-  - [Applications in DSML](#applications-in-dsml)
-- [Data Engineering Resources](#data-engineering-resources)
-- [Data Science Resources](#data-science-resources)
-- [Machine Learning Engineering](#machine-learning-engineering)
-  - [MLOps](#mlops)
-  - [Model Deployment](#model-deployment)
-  - [Best Practices](#best-practices)
-- [Machine Learning System Design Resources](#machine-learning-system-design-resources)
-- [Contributing](#contributing)
-
+- [Curated list of learning resources for DS \& MLE](#curated-list-of-learning-resources-for-ds--mle)
+  - [Table of Contents](#table-of-contents)
+    - [Introduction](#introduction)
+    - [Getting Started](#getting-started)
+      - [Python Version Management](#python-version-management)
+      - [Dependency Management](#dependency-management)
+      - [Project Templates](#project-templates)
+    - [Data Structures and Algorithms Resources](#data-structures-and-algorithms-resources)
+      - [Books and Courses](#books-and-courses)
+      - [Practice Platforms](#practice-platforms)
+      - [Applications in DSML](#applications-in-dsml)
 ### Introduction 
 **What It Takes to Become a Data Scientist or Machine Learning Engineer**
 
@@ -36,3 +29,51 @@ On the other hand, Machine Learning Engineers specialize in designing and deploy
 A **T-shaped skillset** combining deep expertise in a core area with broad knowledge across related domains provides the optimal foundation for success in both data science and machine learning engineering. 
 
 ### Getting Started
+
+#### Python Version Management
+Pyenv is an useful Python version management tool that allows you to install and switch between multiple Python versions on the same system without conflicts. It is excellent for project specific environments and backward compatibility support
+
+<br>
+
+[https://github.com/pyenv/pyenv](https://github.com/pyenv/pyenv)
+
+#### Dependency Management
+Effective dependency management is critical in data science and ML projects to ensure <u>**reproducibility**</u>, prevent conflicts, and maintain consistent environments across development and production.
+
+Both `poetry` and `uv` are good choices that attempt to address pip's limitations around dependency resolution, environment isolation and performance (`uv` is written in rust and is blazing fast)
+
+<br>
+
+[https://python-poetry.org/](https://python-poetry.org/)
+
+
+[https://github.com/astral-sh/uv](https://github.com/astral-sh/uv)
+
+#### Project Templates
+Standardized project templates are essential for maintaining consistency and best practices across projects. Cookiecutter is the leading solution for project templates for Python-based data science and ML workflows. Initial investment in setting up appropriate templates may help to reduce technical debt over time.
+
+Potential drawbacks:
+- Potential overhead (structures that may be excessive for simple projects)
+- Rigidity
+- Maintenance requirements (templates need regular updates as best practices evolve over time)
+
+[https://github.com/cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter)
+
+A template that I personally like to use:
+[https://github.com/py-pkgs/py-pkgs-cookiecutter](https://github.com/py-pkgs/py-pkgs-cookiecutter)
+
+### Data Structures and Algorithms Resources
+
+#### Books and Courses
+- [Hello Algo](https://www.hello-algo.com/)
+- [NeetCode Course](https://neetcode.io/courses)
+- *Data Structures and Algorithms in Python* by Michael T. Goodrich, Roberto Tamassia, and Michael H. Goldwasser (Wiley, 2013) - [Amazon](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275)
+
+#### Practice Platforms
+- [https://leetcode.com/](https://leetcode.com/)
+- [https://neetcode.io/practice](https://neetcode.io/practice)
+- [https://www.hackerrank.com/](https://www.hackerrank.com/)
+- [https://www.deep-ml.com/problems](https://www.deep-ml.com/problems) (The ML equivalent of LeetCode)
+- [https://www.codewars.com](https://www.codewars.com/dashboard) (More suitable for beginners to pick up new languages)
+
+#### Applications in DSML
