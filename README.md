@@ -15,6 +15,8 @@ a curated list of resources for aspiring data scientists and machine learning en
       - [Books and Courses](#books-and-courses)
       - [Practice Platforms](#practice-platforms)
       - [Applications in DSML](#applications-in-dsml)
+    - [Software Engineering Resources](#software-engineering-resources)
+    - [Data Engineering Resources](#data-engineering-resources)
 ### Introduction 
 **What It Takes to Become a Data Scientist or Machine Learning Engineer**
 
@@ -77,3 +79,28 @@ A template that I personally like to use:
 - [https://www.codewars.com](https://www.codewars.com/dashboard) (More suitable for beginners to pick up new languages)
 
 #### Applications in DSML
+- **Graph Structures:** LangGraph leverages Directed Acyclic Graphs (DAGs) to orchestrate complex agent workflows and reasoning paths
+- **Network Algorithms:** Recommender systems employ graph-based collaborative filtering to model user-item interactions and social connections
+- **Optimization Methods:** Feature selection often relies on greedy algorithms to efficiently identify the most predictive variables
+- **Dynamic Programming:** Sequence analysis techniques like Dynamic Time Warping use DP to find optimal alignments between temporal sequences
+- **Tree Data Structures:** Decision trees and ensemble methods (Random Forests, XGBoost) recursively partition data using binary tree structures
+- **Hash Tables:** Vectorization and embedding lookups use efficient hashing for rapid data retrieval in high-dimensional spaces
+- **Queue Processing:** Distributed ML systems implement priority queues for task scheduling and workload management
+
+Remember: Those LeetCode grinding sessions weren't just for passing interviews—they're the algorithms secretly powering your ML models too! 😉
+
+### Software Engineering Resources
+- *Clean Code: A Handbook of Agile Software Craftsmanship* by Robert C. Martin (Prentice Hall, 2008) - [Amazon](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+- *Software Engineering for Data Scientists* by Jacqueline Nolis & Emily Robinson (O'Reilly, 2022) - [Amazon](https://www.amazon.com/Software-Engineering-Data-Scientists-applications/dp/1492080799)
+- *Fluent Python* by Luciano Ramalho (O'Reilly, 2022) - [Amazon](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1492056359)
+- *Robust Python* by Patrick Viafore (O'Reilly, 2021) - [Amazon](https://www.amazon.com/Robust-Python-Patrick-Viafore/dp/1098100662)
+- *Clean Code in Python* by Mariano Anaya (Packt, 2021) - [Amazon](https://www.amazon.com/Clean-Code-Python-maintainable-efficient/dp/1800560214)
+- *Mastering Python Design Patterns* by Kamon Ayeva & Sakis Kasampalis (Packt, 2018) - [Amazon](https://www.amazon.com/Mastering-Python-Design-Patterns-problems/dp/1788837484)
+- *Think Python* by Allen B. Downey (O'Reilly, 2015) - [Amazon](https://www.amazon.com/Think-Python-Allen-B-Downey/dp/1491939362)
+- *The Pragmatic Programmer* by David Thomas & Andrew Hunt (Addison-Wesley, 2019) - [Amazon](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)
+- *Refactoring: Improving the Design of Existing Code* by Martin Fowler (Addison-Wesley, 2018) - [Amazon](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599)
+- *Crafting Test-Driven Software with Python* by Alessandro Molina (Packt, 2021) - [Amazon](https://www.amazon.com/Crafting-Test-Driven-Software-Python-applications/dp/1838642625)
+- [https://pytest-with-eric.com/](https://pytest-with-eric.com/)
+- [https://refactoring.guru/](https://refactoring.guru/)
+
+### Data Engineering Resources
