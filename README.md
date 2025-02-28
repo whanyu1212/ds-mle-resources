@@ -1,26 +1,26 @@
+<!-- omit in toc -->
 # Curated list of learning resources for DS & MLE
 (Working in progress)
 
 a curated list of resources for aspiring data scientists and machine learning engineers
 
+<!-- omit in toc -->
 ## Table of Contents
-- [Curated list of learning resources for DS \& MLE](#curated-list-of-learning-resources-for-ds--mle)
-  - [Table of Contents](#table-of-contents)
-    - [Introduction](#introduction)
-    - [Getting Started](#getting-started)
-      - [Python Version Management](#python-version-management)
-      - [Dependency Management](#dependency-management)
-      - [Project Templates](#project-templates)
-    - [Data Structures and Algorithms Resources](#data-structures-and-algorithms-resources)
-      - [Books and Courses](#books-and-courses)
-      - [Practice Platforms](#practice-platforms)
-      - [Applications in DSML](#applications-in-dsml)
-    - [Software Engineering Resources](#software-engineering-resources)
-    - [Data Engineering Resources](#data-engineering-resources)
-      - [Repositories](#repositories)
-      - [Books](#books)
+- [Introduction](#introduction)
+- [Getting Started](#getting-started)
+  - [Python Version Management](#python-version-management)
+  - [Dependency Management](#dependency-management)
+  - [Project Templates](#project-templates)
+- [Data Structures and Algorithms Resources](#data-structures-and-algorithms-resources)
+  - [Books and Courses](#books-and-courses)
+  - [Practice Platforms](#practice-platforms)
+  - [Applications in DSML](#applications-in-dsml)
+- [Software Engineering Resources](#software-engineering-resources)
+- [Data Engineering Resources](#data-engineering-resources)
+  - [Repositories](#repositories)
+  - [Books](#books)
 ### Introduction 
-**What It Takes to Become a Data Scientist or Machine Learning Engineer**
+**<u>What It Takes to Become a Data Scientist or Machine Learning Engineer</u>**
 
 Becoming a Data Scientist or Machine Learning Engineer requires a <u>blend of technical skills, analytical thinking, and domain expertise</u>. While the two roles overlap in many ways, they serve distinct purposes within the data ecosystem.
 
@@ -31,6 +31,8 @@ On the other hand, Machine Learning Engineers specialize in designing and deploy
 
 
 A **T-shaped skillset** combining deep expertise in a core area with broad knowledge across related domains provides the optimal foundation for success in both data science and machine learning engineering. 
+
+---
 
 ### Getting Started
 
@@ -66,6 +68,8 @@ Potential drawbacks:
 A template that I personally like to use:
 [https://github.com/py-pkgs/py-pkgs-cookiecutter](https://github.com/py-pkgs/py-pkgs-cookiecutter)
 
+---
+
 ### Data Structures and Algorithms Resources
 
 #### Books and Courses
@@ -91,6 +95,8 @@ A template that I personally like to use:
 
 Remember: Those LeetCode grinding sessions weren't just for passing interviews—they're the algorithms secretly powering your ML models too! 😉
 
+---
+
 ### Software Engineering Resources
 - *Clean Code: A Handbook of Agile Software Craftsmanship* by Robert C. Martin (Prentice Hall, 2008) - [Amazon](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 - *Software Engineering for Data Scientists* by Jacqueline Nolis & Emily Robinson (O'Reilly, 2022) - [Amazon](https://www.amazon.com/Software-Engineering-Data-Scientists-applications/dp/1492080799)
@@ -104,6 +110,8 @@ Remember: Those LeetCode grinding sessions weren't just for passing interviews�
 - *Crafting Test-Driven Software with Python* by Alessandro Molina (Packt, 2021) - [Amazon](https://www.amazon.com/Crafting-Test-Driven-Software-Python-applications/dp/1838642625)
 - [https://pytest-with-eric.com/](https://pytest-with-eric.com/)
 - [https://refactoring.guru/](https://refactoring.guru/)
+
+---
 
 ### Data Engineering Resources
 
