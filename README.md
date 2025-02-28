@@ -17,6 +17,8 @@ a curated list of resources for aspiring data scientists and machine learning en
       - [Applications in DSML](#applications-in-dsml)
     - [Software Engineering Resources](#software-engineering-resources)
     - [Data Engineering Resources](#data-engineering-resources)
+      - [Repositories](#repositories)
+      - [Books](#books)
 ### Introduction 
 **What It Takes to Become a Data Scientist or Machine Learning Engineer**
 
@@ -104,3 +106,16 @@ Remember: Those LeetCode grinding sessions weren't just for passing interviewsâ€
 - [https://refactoring.guru/](https://refactoring.guru/)
 
 ### Data Engineering Resources
+
+#### Repositories
+- [https://github.com/DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook)
+- [https://github.com/DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
+
+#### Books
+- *Fundamentals of Data Engineering* by Joe Reis & Matt Housley (O'Reilly, 2022) - [Amazon](https://www.amazon.com/Fundamentals-Data-Engineering-Robust-Systems/dp/1098108302)
+- *Data Engineering Design Patterns* by Joe Reis & Matt Housley (O'Reilly, 2023) - [Amazon](https://www.amazon.com/Data-Engineering-Design-Patterns-Grokking/dp/1633439216)
+- *Streaming Systems* by Tyler Akidau, Slava Chernyak & Reuven Lax (O'Reilly, 2018) - [Amazon](https://www.amazon.com/Streaming-Systems-Where-Large-Scale-Processing/dp/1491983876)
+- *Designing Data-Intensive Applications* by Martin Kleppmann (O'Reilly, 2017) - [Amazon](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
+- *Financial Data Engineering* by Harvinder Atwal (Packt, 2023) - [Amazon](https://www.amazon.com/Financial-Data-Engineering-manipulate-transformation/dp/1803240997)
+
+**Note:** Focus on mastering fundamental data engineering concepts and skills before specializing in cloud-specific implementations. This foundational knowledge provides the transferable expertise necessary to quickly adapt to any platform-specific requirements in professional settings.
