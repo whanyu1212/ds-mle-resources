@@ -19,6 +19,8 @@ a curated list of resources for aspiring data scientists and machine learning en
 - [Data Engineering Resources](#data-engineering-resources)
   - [Repositories](#repositories)
   - [Books](#books)
+- [Data Science Resources](#data-science-resources)
+  - [Books](#books-1)
 ### Introduction 
 **<u>What It Takes to Become a Data Scientist or Machine Learning Engineer</u>**
 
@@ -127,3 +129,16 @@ Remember: Those LeetCode grinding sessions weren't just for passing interviewsâ€
 - *Financial Data Engineering* by Harvinder Atwal (Packt, 2023) - [Amazon](https://www.amazon.com/Financial-Data-Engineering-manipulate-transformation/dp/1803240997)
 
 **Note:** Focus on mastering fundamental data engineering concepts and skills before specializing in cloud-specific implementations. This foundational knowledge provides the transferable expertise necessary to quickly adapt to any platform-specific requirements in professional settings.
+
+### Data Science Resources
+
+#### Books
+- *An Introduction to Statistical Learning (ISLR)* by Gareth James, Daniela Witten, Trevor Hastie, & Robert Tibshirani (Springer, 2021) - [Website](https://www.statlearning.com/)
+- *ISLR Labs reproduced in Julia* by JuliaAI (Online Resource) - [Website](https://juliaai.github.io/DataScienceTutorials.jl/info/isl/)
+- *The Elements of Statistical Learning* by Trevor Hastie, Robert Tibshirani, & Jerome Friedman (Springer, 2009) - [Amazon](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576)
+- *Machine Learning with PyTorch and Scikit-Learn* by Sebastian Raschka, Yuxi (Hayden) Liu, & Vahid Mirjalili (Packt, 2022) - [Amazon](https://www.amazon.com/Machine-Learning-PyTorch-Scikit-Learn-learning/dp/1801819319)
+- *Causal Inference in Python* by Matheus Facure (O'Reilly, 2023) - [Amazon](https://www.amazon.com/Causal-Inference-Python-Learning-Causality/dp/1098140257)
+- *Modern Time Series Forecasting with Python* by Marin Vlastelica & Humphrey Sheil (Packt, 2022) - [Amazon](https://www.amazon.com/Modern-Time-Forecasting-Python-decomposition/dp/1803246723)
+- *Transformers for Natural Language Processing* by Denis Rothman (Packt, 2022) - [Amazon](https://www.amazon.com/Transformers-Natural-Language-Processing-Understanding/dp/1803247339)
+- *Applied Machine Learning Explainability Techniques* by Alex Thomas (O'Reilly, 2022) - [Amazon](https://www.amazon.com/Applied-Machine-Learning-Explainability-Techniques/dp/1098102401)
+- *Interpretable Machine Learning* by Christoph Molnar (Online/Self-published, 2022) - [Website](https://christophm.github.io/interpretable-ml-book/)
